@@ -28,9 +28,3 @@ El flujo de trabajo que conecta los archivos es el siguiente:
 Durante la revisión del proyecto se detectaron problemas que no pueden ser resueltos y que afectan la trazabilidad completa del ensayo:
 * **Falta de contexto de origen:** No existe información sobre las características del ensayo[cite: 9]. Se desconoce la fecha de ejecución, el tipo de curado, la edad del hormigón, el equipo utilizado y las condiciones del laboratorio, lo que imposibilita analizar la coherencia física de los datos[cite: 9].
 * **Uso de IA no verificable:** El informe original indica que se utilizó inteligencia artificial para redactar partes del texto, pero no se registraron los fragmentos generados[cite: 9]. Al no poder contactar al ingeniero original para consultar cómo usó la herramienta, no es posible completar fehacientemente el archivo `USO_IA_sin_completar.md` ni verificar dicho contenido[cite: 9].
-## 6. Uso de IA
-Herramienta: Gemini (Google)
-Propósito: Asistencia para estructurar el archivo README, organizar las carpetas del repositorio y revisar la redacción de la bitácora de auditoría.
-Salida utilizada: Propuestas de formato Markdown para el README y retroalimentación sobre la claridad de los problemas detectados.
-Cómo se verificó: Se contrastaron las sugerencias con la pauta de evaluación y se adaptaron las respuestas para que reflejaran fielmente los hallazgos personales sobre el proyecto heredado.
-Decisión final: Se incorporó la estructura sugerida en el README y en la redacción final de la bitácora. Sobre el uso de IA del autor original, se dejó constancia en el README que es imposible de auditar.
